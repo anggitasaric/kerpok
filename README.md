@@ -1,4 +1,4 @@
-# Tech stack frontend
+# TECH STACK FRONTEND
 ## Komponen tech stack frontend
 HTML,
 CSS,
