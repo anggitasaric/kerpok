@@ -21,4 +21,8 @@ Platform pengodean otomatis,
 Bahasa pemrograman JavaScript, 
 Basis data NoSOL, 
 Chatbot dan AI
-
+## CONTOH PERUSAHAAN YANG MENGGUNAKAN TECH STACK FRONTEND
+Facebook, 
+Google, 
+Netflix, 
+Amazon
