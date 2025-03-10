@@ -3,7 +3,7 @@
 HTML,
 CSS,
 JAVASCRIPT 
-## Kekurangan & Kelebihan tech stack frontend
+## KEKURANGAN & KELEBIHAN TECH STACK FRONTEND 
 ## kelebihan 
 Pengembangan cepat dan efisien, 
 Pengalaman pengguna yang lebih baik, 
