@@ -66,6 +66,9 @@ Penggunaan: GitHub mengandalkan CSS untuk desain halaman dan pengaturan antarmuk
 Framework: GitHub menggunakan berbagai framework dan CSS kustom untuk membangun tampilan web yang konsisten di seluruh platform.
 ## CANTUMKAN SUMBER DATA DAN PASTIKAN DARI SUMBER TERPERCAYA
 https://reliasoftware.com/blog/front-end-technologies?
+
 https://netflixtechblog.com/title-launch-observability-at-netflix-scale-8efe69ebd653
+
 https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/
+
 https://blog.unmaha.ac.id/apa-itu-css-pengertian-fungsi-jenis-dan-kelebihannya/#:~:text=CSS%20(Cascading%20Style%20Sheets)%20adalah,experience)%20lebih%20menarik%20dan%20efisien.
