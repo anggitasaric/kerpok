@@ -19,11 +19,16 @@ Ditulis di dalam file HTML di bagian <style> Cocok untuk halaman dengan desain u
 Diletakkan dalam file terpisah dengan ekstensi .css. File ini bisa digunakan untuk beberapa halaman sekaligus, sehingga lebih efisien dan memudahkan pengelolaan.
 ## KEKURANGAN & KELEBIHAN TECH STACK FRONTEND CSS
 ## - Kelebihan 
-Pemisahan Konten dan Tampilan: CSS memungkinkan pemisahan antara konten (HTML) dan desain (CSS). Ini membuat kode lebih terstruktur, mudah dikelola, dan lebih mudah untuk diubah tampilan tanpa mempengaruhi konten.
-Responsif dan Fleksibel: CSS mendukung media queries, yang memungkinkan pembuatan desain responsif yang dapat menyesuaikan diri dengan berbagai ukuran layar, mulai dari desktop hingga perangkat mobile.
-Kompatibilitas dengan Browser: CSS didukung oleh semua browser modern, yang memungkinkan desain tampilan yang konsisten di berbagai platform.
-Meningkatkan Kinerja: CSS lebih efisien daripada menggunakan inline styling atau elemen presentasi dalam HTML karena dapat memuat file CSS terpisah yang di-cache oleh browser, mengurangi waktu pemuatan halaman.
-Penggunaan Frameworks: Ada banyak framework CSS (seperti Bootstrap, Tailwind CSS, dan Foundation) yang menyediakan komponen dan aturan desain siap pakai, mempercepat pengembangan dan memastikan konsistensi desain
+### 1. Pemisahan Konten dan Tampilan: 
+CSS memungkinkan pemisahan antara konten (HTML) dan desain (CSS). Ini membuat kode lebih terstruktur, mudah dikelola, dan lebih mudah untuk diubah tampilan tanpa mempengaruhi konten.
+### 2. Responsif dan Fleksibel: 
+CSS mendukung media queries, yang memungkinkan pembuatan desain responsif yang dapat menyesuaikan diri dengan berbagai ukuran layar, mulai dari desktop hingga perangkat mobile.
+### 3. Kompatibilitas dengan Browser: 
+CSS didukung oleh semua browser modern, yang memungkinkan desain tampilan yang konsisten di berbagai platform.
+### 4. Meningkatkan Kinerja: 
+CSS lebih efisien daripada menggunakan inline styling atau elemen presentasi dalam HTML karena dapat memuat file CSS terpisah yang di-cache oleh browser, mengurangi waktu pemuatan halaman.
+### 5. Penggunaan Frameworks: 
+Ada banyak framework CSS (seperti Bootstrap, Tailwind CSS, dan Foundation) yang menyediakan komponen dan aturan desain siap pakai, mempercepat pengembangan dan memastikan konsistensi desain
 ## - Kekurangan 
 Kurva Pembelajaran: Meskipun sintaks dasar CSS mudah dipahami, konsep-konsep lanjutan seperti posisi elemen, flexbox, grid, atau manajemen responsif dapat membingungkan bagi pemula.
 Kompleksitas dalam Penataan Layout: Untuk layout yang lebih kompleks, CSS dapat menjadi sulit untuk dikelola dan di-debug, terutama dalam hal memastikan kompatibilitas di berbagai browser atau perangkat.
