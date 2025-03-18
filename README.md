@@ -31,6 +31,21 @@ Tidak Ada Logika Dinamis: CSS hanya berfokus pada tampilan dan tidak menyediakan
 6. Solid.js
 7. Tailwind
 ## CONTOH PERUSAHAAN YANG MENGGUNAKAN TECH STACK FRONTEND CSS
+1. Netflix
+Penggunaan: Netflix menggunakan CSS untuk membangun antarmuka pengguna yang responsif dan dinamis. Mereka mengandalkan CSS dan framework seperti React untuk mendukung aplikasi berbasis web yang kaya fitur, dengan tampilan yang disesuaikan dengan berbagai perangkat.
+Framework: Meskipun Netflix menggunakan React untuk komponen UI, mereka juga mengoptimalkan penggunaan CSS untuk styling, animasi, dan transisi.
+2. Airbnb
+Penggunaan: Airbnb mengandalkan CSS dan alat terkait untuk merancang halaman yang responsif dan menyenangkan untuk pengguna. Mereka menggunakan teknik CSS modern seperti Flexbox dan Grid untuk desain responsif dan layout yang fleksibel.
+Framework: Airbnb lebih cenderung menggunakan CSS dengan sedikit kustomisasi untuk memastikan pengalaman pengguna yang konsisten di berbagai platform.
+3. Facebook
+Penggunaan: Facebook (sekarang Meta) menggunakan CSS untuk desain antarmuka pengguna pada aplikasi berbasis web mereka. Dengan berbagai halaman dan elemen interaktif, mereka menggunakan CSS untuk memastikan konsistensi desain di berbagai perangkat.
+Framework: Menggunakan React untuk frontend, dan menggabungkan CSS untuk styling serta animasi. Facebook juga menggunakan CSS-in-JS untuk styling komponen.
+4. Spotify
+Penggunaan: Spotify menggunakan CSS untuk mendukung desain antarmuka pengguna yang responsif dan berfokus pada pengalaman pengguna yang halus dan intuitif. Hal ini termasuk tata letak responsif dan animasi CSS untuk transisi halus antar halaman.
+Framework: Spotify menggabungkan CSS dengan JavaScript dan alat frontend modern untuk memastikan kinerja yang optimal di perangkat desktop maupun mobile.
+5. GitHub
+Penggunaan: GitHub mengandalkan CSS untuk desain halaman dan pengaturan antarmuka pengguna. Mereka menerapkan layout grid dan teknik CSS modern lainnya untuk memastikan desain yang responsif dan mudah diakses oleh pengguna.
+Framework: GitHub menggunakan berbagai framework dan CSS kustom untuk membangun tampilan web yang konsisten di seluruh platform.
 
 ## CANTUMKAN SUMBER DATA DAN PASTIKAN DARI SUMBER TERPERCAYA
 https://www.geeksforgeeks.org/top-frontend-development-trends/
