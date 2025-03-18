@@ -30,11 +30,16 @@ CSS lebih efisien daripada menggunakan inline styling atau elemen presentasi dal
 ### 5. Penggunaan Frameworks: 
 Ada banyak framework CSS (seperti Bootstrap, Tailwind CSS, dan Foundation) yang menyediakan komponen dan aturan desain siap pakai, mempercepat pengembangan dan memastikan konsistensi desain
 ## - Kekurangan 
-Kurva Pembelajaran: Meskipun sintaks dasar CSS mudah dipahami, konsep-konsep lanjutan seperti posisi elemen, flexbox, grid, atau manajemen responsif dapat membingungkan bagi pemula.
-Kompleksitas dalam Penataan Layout: Untuk layout yang lebih kompleks, CSS dapat menjadi sulit untuk dikelola dan di-debug, terutama dalam hal memastikan kompatibilitas di berbagai browser atau perangkat.
-Isu dengan Browser Lama: Meskipun kebanyakan browser modern mendukung CSS dengan baik, beberapa properti atau fitur (seperti flexbox atau grid) mungkin tidak didukung dengan baik di browser lama, sehingga memerlukan polyfill atau solusi fallback.
-Cascading dan Spesifisitas: Konflik CSS sering kali muncul karena masalah cascading dan spesifisitas, di mana aturan yang lebih spesifik dapat menimpa aturan yang lebih umum, membuat pengelolaan gaya lebih rumit.
-Tidak Ada Logika Dinamis: CSS hanya berfokus pada tampilan dan tidak menyediakan logika dinamis. Untuk perubahan tampilan yang memerlukan interaksi atau kondisi dinamis, Anda harus mengandalkan JavaScript.
+### 1. Kurva Pembelajaran: 
+Meskipun sintaks dasar CSS mudah dipahami, konsep-konsep lanjutan seperti posisi elemen, flexbox, grid, atau manajemen responsif dapat membingungkan bagi pemula.
+### 2. Kompleksitas dalam Penataan Layout: 
+Untuk layout yang lebih kompleks, CSS dapat menjadi sulit untuk dikelola dan di-debug, terutama dalam hal memastikan kompatibilitas di berbagai browser atau perangkat.
+### 3. Isu dengan Browser Lama: 
+Meskipun kebanyakan browser modern mendukung CSS dengan baik, beberapa properti atau fitur (seperti flexbox atau grid) mungkin tidak didukung dengan baik di browser lama, sehingga memerlukan polyfill atau solusi fallback.
+### 4. Cascading dan Spesifisitas: 
+Konflik CSS sering kali muncul karena masalah cascading dan spesifisitas, di mana aturan yang lebih spesifik dapat menimpa aturan yang lebih umum, membuat pengelolaan gaya lebih rumit.
+### 5. Tidak Ada Logika Dinamis: 
+CSS hanya berfokus pada tampilan dan tidak menyediakan logika dinamis. Untuk perubahan tampilan yang memerlukan interaksi atau kondisi dinamis, Anda harus mengandalkan JavaScript.
 ## TREN PERKEMBANGAN TECH STACK FRONTEND CSS DITAHUN 2025
 1. Framework CSS Populer
 2. Vue.js
