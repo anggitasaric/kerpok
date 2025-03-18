@@ -19,7 +19,7 @@ Ditulis di dalam file HTML di bagian <style> Cocok untuk halaman dengan desain u
 Diletakkan dalam file terpisah dengan ekstensi .css. File ini bisa digunakan untuk beberapa halaman sekaligus, sehingga lebih efisien dan memudahkan pengelolaan.
 ## KEKURANGAN & KELEBIHAN TECH STACK FRONTEND CSS
 ## - Kelebihan 
-### 1. Pemisahan Konten dan Tampilan: 
+### * 1. Pemisahan Konten dan Tampilan: 
 CSS memungkinkan pemisahan antara konten (HTML) dan desain (CSS). Ini membuat kode lebih terstruktur, mudah dikelola, dan lebih mudah untuk diubah tampilan tanpa mempengaruhi konten.
 ### 2. Responsif dan Fleksibel: 
 CSS mendukung media queries, yang memungkinkan pembuatan desain responsif yang dapat menyesuaikan diri dengan berbagai ukuran layar, mulai dari desktop hingga perangkat mobile.
