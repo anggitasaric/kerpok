@@ -39,7 +39,7 @@ Tidak Ada Logika Dinamis: CSS hanya berfokus pada tampilan dan tidak menyediakan
 6. Solid.js
 7. Tailwind
 ## CONTOH PERUSAHAAN YANG MENGGUNAKAN TECH STACK FRONTEND CSS
-1. Netflix
+###1. Netflix
 Penggunaan: Netflix menggunakan CSS untuk membangun antarmuka pengguna yang responsif dan dinamis. Mereka mengandalkan CSS dan framework seperti React untuk mendukung aplikasi berbasis web yang kaya fitur, dengan tampilan yang disesuaikan dengan berbagai perangkat.
 Framework: Meskipun Netflix menggunakan React untuk komponen UI, mereka juga mengoptimalkan penggunaan CSS untuk styling, animasi, dan transisi.
 2. Airbnb
