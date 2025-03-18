@@ -1,14 +1,22 @@
 # TECH STACK FRONTEND CSS
 # Pengertian Frontend
-Frontend adalah apa yang pengguna Anda lihat dan termasuk elemen visual, seperti tombol, kotak centang, grafik, dan pesan teks. Hal ini memungkinkan pengguna Anda untuk berinteraksi dengan aplikasi Anda. 
+Frontend adalah apa yang pengguna Anda lihat dan termasuk elemen visual, seperti tombol, kotak centang, grafik, dan pesan teks. Hal ini memungkinkan pengguna Anda untuk berinteraksi dengan aplikasi Anda.
 ## 1. CSS (Cascading Style Sheets)
-Pengertian: CSS adalah bahasa yang digunakan untuk mengatur tampilan atau desain visual halaman web yang dibuat dengan HTML. Dengan CSS, kita bisa mengatur warna, ukuran, layout, dan elemen desain lainnya.
-Contoh Penggunaan:
-Mengatur warna teks: color: blue;
-Mengatur ukuran font: font-size: 16px;
-Membuat layout: display: flex; atau grid
-# KESIMPULAN
-CSS mengatur tampilan dan desain halaman web.
+Pengertian: CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan atau desain dari halaman web yang dibuat dengan HTML. HTML bertugas membangun struktur website, sedangkan CSS yang mempercantiknya. Ibarat rumah, HTML adalah pondasinya, dan CSS adalah dekorasi interiornya. Tanpa CSS, halaman website hanya akan terlihat seperti teks polos yang membosankan. CSS memungkinkan kamu mengatur berbagai elemen, seperti warna latar, ukuran font, spasi antar paragraf, hingga tata letak halaman. Ini menjadikan pengalaman pengguna (user experience) lebih menarik dan efisien.
+# FUNGSI CSS
+1. Mengatur Tampilan Visual
+Dengan CSS, kamu bisa menentukan warna, ukuran, dan gaya teks, serta menyusun tata letak elemen di halaman. Ini sangat membantu agar tampilan website lebih menarik dan sesuai branding.
+2. Meningkatkan Konsistensi Desain.
+CSS memungkinkan kamu menggunakan stylesheet yang sama untuk beberapa halaman sekaligus. Jadi, semua halaman dalam satu website bisa terlihat konsisten dan seragam.
+3. Mengoptimalkan Responsivitas Website
+Saat ini, website harus bisa tampil optimal di berbagai perangkat, seperti laptop, tablet, hingga smartphone. CSS mempermudah developer membuat website yang responsif dengan teknik seperti media query.
+# JENIS-JENIS CSS
+1. Inline CSS
+Diterapkan langsung di dalam tag HTML. Meski sederhana, penggunaannya terbatas untuk elemen tertentu.
+2. Internal CSS
+Ditulis di dalam file HTML di bagian <style> Cocok untuk halaman dengan desain unik yang berbeda dari halaman lainnya.
+3. External CSS
+Diletakkan dalam file terpisah dengan ekstensi .css. File ini bisa digunakan untuk beberapa halaman sekaligus, sehingga lebih efisien dan memudahkan pengelolaan.
 ## KEKURANGAN & KELEBIHAN TECH STACK FRONTEND CSS
 ## kelebihan 
 Pemisahan Konten dan Tampilan: CSS memungkinkan pemisahan antara konten (HTML) dan desain (CSS). Ini membuat kode lebih terstruktur, mudah dikelola, dan lebih mudah untuk diubah tampilan tanpa mempengaruhi konten.
@@ -46,11 +54,8 @@ Framework: Spotify menggabungkan CSS dengan JavaScript dan alat frontend modern 
 5. GitHub
 Penggunaan: GitHub mengandalkan CSS untuk desain halaman dan pengaturan antarmuka pengguna. Mereka menerapkan layout grid dan teknik CSS modern lainnya untuk memastikan desain yang responsif dan mudah diakses oleh pengguna.
 Framework: GitHub menggunakan berbagai framework dan CSS kustom untuk membangun tampilan web yang konsisten di seluruh platform.
-
 ## CANTUMKAN SUMBER DATA DAN PASTIKAN DARI SUMBER TERPERCAYA
-https://www.geeksforgeeks.org/top-frontend-development-trends/
-https://geekgarden.id/insight/technology-stack/
-https://asd-team.translate.goog/blog/how-to-choose-tech-stack/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=Komponen%20Tumpukan%20Teknologi%20Frontend,menghadirkan%20antarmuka%20pengguna%20berkualitas%20tinggi.
-https://tipssukses.harisenin.com/apa-beda-front-end-dan-back-end
 https://reliasoftware.com/blog/front-end-technologies?
 https://netflixtechblog.com/title-launch-observability-at-netflix-scale-8efe69ebd653
+https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/
+https://blog.unmaha.ac.id/apa-itu-css-pengertian-fungsi-jenis-dan-kelebihannya/#:~:text=CSS%20(Cascading%20Style%20Sheets)%20adalah,experience)%20lebih%20menarik%20dan%20efisien.
