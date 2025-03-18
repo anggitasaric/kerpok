@@ -53,3 +53,4 @@ https://geekgarden.id/insight/technology-stack/
 https://asd-team.translate.goog/blog/how-to-choose-tech-stack/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=Komponen%20Tumpukan%20Teknologi%20Frontend,menghadirkan%20antarmuka%20pengguna%20berkualitas%20tinggi.
 https://tipssukses.harisenin.com/apa-beda-front-end-dan-back-end
 https://reliasoftware.com/blog/front-end-technologies?
+https://netflixtechblog.com/title-launch-observability-at-netflix-scale-8efe69ebd653
