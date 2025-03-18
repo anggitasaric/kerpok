@@ -31,21 +31,7 @@ Tidak Ada Logika Dinamis: CSS hanya berfokus pada tampilan dan tidak menyediakan
 6. Solid.js
 7. Tailwind
 ## CONTOH PERUSAHAAN YANG MENGGUNAKAN TECH STACK FRONTEND CSS
-## 1. Facebook
-HTML: Digunakan untuk membangun struktur halaman dan elemen-elemen seperti post, komentar, tombol, dan profil pengguna.
-CSS: Digunakan untuk mendesain tampilan, mengatur layout, dan responsivitas pada berbagai perangkat.
-JavaScript: Digunakan untuk interaktivitas dan fungsionalitas seperti pembaruan real-time, pengelolaan status pengguna, dan aliran data dinamis.
-React: Facebook sendiri mengembangkan React, sebuah pustaka JavaScript, yang digunakan untuk membangun antarmuka pengguna (UI) yang dinamis dan efisien.
-## 2. Google
-HTML: Google menggunakan HTML untuk membangun struktur halaman webnya, seperti pencarian, pengaturan, dan hasil pencarian.
-CSS: Digunakan untuk mendesain elemen-elemen di halaman pencarian dan aplikasi lainnya agar tampil menarik dan responsif.
-JavaScript: Google mengandalkan JavaScript untuk menangani fitur dinamis di halaman, seperti autocompletion pada pencarian dan interaktivitas lainnya.
-Angular: Google mengembangkan Angular, sebuah framework JavaScript, yang digunakan untuk membangun aplikasi web yang kompleks dengan UI dinamis.
-## 3. Netflix
-HTML: Digunakan untuk menyusun konten dan elemen-elemen seperti daftar film, deskripsi, tombol putar, dan navigasi.
-CSS: Menangani desain dan tata letak halaman untuk memastikan pengalaman menonton yang nyaman, baik di desktop maupun perangkat mobile.
-JavaScript: Digunakan untuk interaksi dinamis seperti pemutaran video, pembaruan daftar film, serta navigasi yang responsif.
-React: Netflix menggunakan React untuk membangun antarmuka pengguna yang cepat dan
+
 ## CANTUMKAN SUMBER DATA DAN PASTIKAN DARI SUMBER TERPERCAYA
 https://www.geeksforgeeks.org/top-frontend-development-trends/
 https://geekgarden.id/insight/technology-stack/
